@@ -257,5 +257,8 @@ cython_debug/
 # Poetry local configuration file - https://python-poetry.org/docs/configuration/#local-configuration
 poetry.toml
 
+#.DS_Store
+.DS_Store
+
 
 # End of https://www.toptal.com/developers/gitignore/api/python,django
